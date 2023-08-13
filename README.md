@@ -1,7 +1,7 @@
 👋 My name is Kazi Rabbany
 ==========================
 
-& Engineer
+Indie Maker/Entrepreneur & Software Engineer
 ----------
 
 * 🖥️  See my portfolio at [My Projects](http://bio.kazi.rocks)
