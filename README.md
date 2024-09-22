@@ -4,9 +4,10 @@
 Indie Maker/Entrepreneur & Software Engineer
 ----------
 
-* 🖥️  See my portfolio at [My Projects](http://bio.kazi.rocks)
-* 🚀  I'm currently working on [LabSocial](http://labsocial.com)
-* 🧠  I'm learning Tensorflow & Rust
+* 🖥️  See my portfolio at [My Projects](http://kazi.rocks)
+* 🚀  I'm currently working on automated trading bot based on Reinforcement Learning
+* 🚀  Last project [LabSocial](http://labsocial.com)
+* 🧠  I'm learning Reinforcement Learning
 * 🤝  I'm open to collaborating on SaaS, AI, Web3 projects
 
 <a href="https://www.twitter.com/kgrsajid" target="_blank" rel="noreferrer"><img
