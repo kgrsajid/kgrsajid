@@ -5,10 +5,10 @@ Indie Maker/Entrepreneur & Software Engineer
 ----------
 
 * 🖥️  See my portfolio at [My Projects](http://kazi.rocks)
-* 🚀  I'm currently working on an machine learning & reinforcement learning based trading bot
+* 🚀  I'm currently working on AI models (Deep Learning & Reinforcement Learning) on time-series datasets and also speech data to detect depression
 * 🚀  Last SaaS product [LabSocial](http://labsocial.com) (dead)
-* 🧠  I'm learning Deep Learning & Reinforcement Learning!
-* 🤝  I'm open to collaborating on SaaS, AI, Web3 projects
+* 🧠  I'm learning to build Reinforcement Learning agents!
+* 🤝  I'm open to collaborating on SaaS, AI, Web3 & Islamic Fintech projects
 
 <a href="https://www.twitter.com/kgrsajid" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/kgrsajid?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
@@ -38,4 +38,4 @@ src="https://img.shields.io/twitter/follow/kgrsajid?logo=twitter&style=for-the-b
 
 ### Support Me
 
-<a href="https://www.buymeacoffee.com/kgrsajid"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
+<!-- a href="https://www.buymeacoffee.com/kgrsajid"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a -->
