@@ -1,12 +1,12 @@
 👋 My name is Kazi Rabbany
 ==========================
 
-Indie Maker/Entrepreneur & Software Engineer
+Indie Maker/Entrepreneur, Software Engineer & Machine Learning Researcher
 ----------
 
 * 🖥️  See my portfolio at [My Projects](http://kazi.rocks)
 * 🚀  I'm currently working on AI models (Deep Learning & Reinforcement Learning) on time-series datasets and also speech data to detect depression
-* 🚀  Last SaaS product [LabSocial](http://labsocial.com) (dead)
+* 🚀  Last SaaS product [LabSocial](http://labsocial.com) (reviving...)
 * 🧠  I'm learning to build Reinforcement Learning agents!
 * 🤝  I'm open to collaborating on SaaS, AI, Web3 & Islamic Fintech projects
 
